@@ -1,14 +1,38 @@
-<div align="center">
-    <a href="https://koders.in/">
-    <img alt="Logo" height=200 src="./assets/koders.png"/> 
-    </a>    
-    <h4>Your vision, Our Kreation</h4>
-    <h5>An institution that caters to all your software needs with their touch of Koding.</h5>
-</div>
+<p align="center">
+  <a href="https://koders.in/">
+    <img src="./assets/koders.png" alt="Logo" width="200" height="200">
+  </a>
+</p>
+<p align="center">
+  <i> "Your vision, Our Kreation" </i>
+  <br> 
+  <br> 
+  An institution that caters to all your software needs with their touch of Koding.
+  <br>
+  <a href="https://www.koders.in"><strong>Explore More»</strong></a>
+  <br>
+  <br>
+  <a href="https://www.github.com/koders-in">Github</a>
+  ·
+  <a href="https://www.linkedin.com/company/54359381/">LinkedIn</a>
+  ·
+  <a href="https://www.youtube.com/channel/UCZ5abFiwqKyJLIQ1Jqb6bNg">Youtube</a>
+  ·
+  <a href="https://www.instagram.com/koders_in/">Instagram</a>
+</p>
+
 <br />
 <div align="center" >
     <img alt="Logo" src="./assets/logo.png"/>
-    <h2>Link Opener</h2>
+    <h2>Komplete AIO</h2>
+[![Generic badge](https://img.shields.io/static/v1?label=Language&message=NodeJS&color=yellow)](https://shields.io/)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Koders&logo=discord&style=flat-square)](https://discord.gg/hGS24JC)
+[![Discord badge](https://img.shields.io/static/v1?label=Depends&message=discord-py&color=blue)](https://shields.io/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
+ [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+
+
 </div>
 <br />
 
