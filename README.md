@@ -19,12 +19,13 @@
   <a href="https://www.youtube.com/channel/UCZ5abFiwqKyJLIQ1Jqb6bNg">Youtube</a>
   ·
   <a href="https://www.instagram.com/koders_in/">Instagram</a>
+  ·
+  <a href="https://discord.gg/hGS24JC">Discord</a>
 </p>
 
-<br />
 <div align="center" >
     <img alt="Logo" src="./assets/logo.png"/>
-    <h2>Komplete AIO</h2>
+    <h1>Komplete AIO</h1>
   
 [![Follow](https://img.shields.io/github/followers/koders-in?label=Koders&style=social)](https://github.com/koders-in)
 [![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Koders&logo=discord&style=flat-square)](https://discord.gg/hGS24JC)
