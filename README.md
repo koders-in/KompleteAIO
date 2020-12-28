@@ -1,28 +1,3 @@
-<p align="center">
-  <a href="https://koders.in/">
-    <img src="./assets/koders.png" alt="Logo" width="200" height="200">
-  </a>
-</p>
-<p align="center">
-  <i> "Your vision, Our Kreation" </i>
-  <br> 
-  <br> 
-  An institution that caters to all your software needs with their touch of Koding.
-  <br>
-  <a href="https://www.koders.in"><strong>Explore More»</strong></a>
-  <br>
-  <br>
-  <a href="https://www.github.com/koders-in">Github</a>
-  ·
-  <a href="https://www.linkedin.com/company/54359381/">LinkedIn</a>
-  ·
-  <a href="https://www.youtube.com/channel/UCZ5abFiwqKyJLIQ1Jqb6bNg">Youtube</a>
-  ·
-  <a href="https://www.instagram.com/koders_in/">Instagram</a>
-  ·
-  <a href="https://discord.gg/hGS24JC">Discord</a>
-</p>
-
 <div align="center" >
     <img alt="Logo" src="./assets/logo.png"/>
     <h1>Komplete AIO</h1>
@@ -148,3 +123,28 @@
 Have a bug or a feature request? Please first read the code of conduct and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/koders-in/Link-opener-frontEnd/issues).
 
 ### Made with ❤️ by [Koders](http://koders.in/)
+<p align="center">
+  <a href="https://koders.in/">
+    <img src="./assets/koders.png" alt="Logo" width="200" height="200">
+  </a>
+</p>
+<p align="center">
+  <i> "Your vision, Our Kreation" </i>
+  <br> 
+  <br> 
+  An institution that caters to all your software needs with their touch of Koding.
+  <br>
+  <a href="https://www.koders.in"><strong>Explore More»</strong></a>
+  <br>
+  <br>
+  <a href="https://www.github.com/koders-in">Github</a>
+  ·
+  <a href="https://www.linkedin.com/company/54359381/">LinkedIn</a>
+  ·
+  <a href="https://www.youtube.com/channel/UCZ5abFiwqKyJLIQ1Jqb6bNg">Youtube</a>
+  ·
+  <a href="https://www.instagram.com/koders_in/">Instagram</a>
+  ·
+  <a href="https://discord.gg/hGS24JC">Discord</a>
+</p>
+
