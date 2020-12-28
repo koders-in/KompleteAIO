@@ -1,12 +1,12 @@
 <div align="center">
     <a href="https://koders.in/">
-    <img alt="Logo" height=200 src="./assets/Koders.png"/> 
+    <img alt="Logo" height=200 src="./assets/koders.png"/> 
     </a>    
     <h4>Your vision, Our Kreation</h4>
     <h5>An institution that caters to all your software needs with their touch of Koding.</h5>
 </div>
 <br />
-<div >
+<div align="center" >
     <img alt="Logo" src="./assets/logo.png"/>
     <h2>Link Opener</h2>
 </div>
