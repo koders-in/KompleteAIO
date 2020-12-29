@@ -1,6 +1,7 @@
 <div align="center" >
     <img alt="Logo" height=60 src="./assets/KIO_24.png"/>
     <h1>Komplete AIO</h1>
+    
 [![Follow](https://img.shields.io/github/followers/koders-in?label=Koders&style=social)](https://github.com/koders-in)
 [![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Koders&logo=discord&style=flat-square)](https://discord.gg/hGS24JC)
 [![Discord badge](https://img.shields.io/static/v1?label=Depends&message=node&color=blue)](https://shields.io/)
