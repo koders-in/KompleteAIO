@@ -50,11 +50,10 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 
 <img alt="Logo" height="400"  src="./assets/setting.gif"/>
 
-<details><summary><h2 style="display:inline-block"> Want More... </h2></summary>
+- Buy a customized source code as how you want
+<details><summary>Want More?</summary>
 <p>
 
-```
--   Buy a customized source code as how you want
 -   Custom Webhooks
 -   Logs exporter
 -   Logs importer
@@ -70,7 +69,6 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 -   Load/Save configs
 -   Stop/Start Bot
 -   Test webhook instantly and manually
-```
 
 </p>
 </details>
