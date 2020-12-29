@@ -73,7 +73,7 @@
 
 #### URL Appender
 
--   `TODO`
+-   `Url appender is used to append the urls coming from discord server`
 
 <a id="keywords"></a>
 
@@ -103,26 +103,18 @@
 
 ## 💾 Data
 
--   `Here You can entered Data like claimer Token, Monitor token etc`
+-   `Here You can enter Data like claimer Token, Monitor token etc.`
 
 <a id="settings" ></a>
 
 ## ⚙️ Settings
 
--   `Here you can set chrome user in which links are open`
--   `You can add webhook of discord where all the status of Komplete AIO application`
-
-## 📦 What's inside?
-
-```
-    main
-    development
-    feature
-```
+-   `Here you can set chrome user in which links are open.`
+-   `You can add webhook of discord where all the status of Komplete AIO application.`
 
 ## ℹ️ Issues
 
-Have a bug or a feature request? Please first read the code of conduct and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/koders-in/Link-opener-frontEnd/issues).
+Have a bug or a feature request? Please first read the code of conduct and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/koders-in/KompleteAIO/issues).
 
 ### Made with ❤️ by [Koders](http://koders.in/)
 
