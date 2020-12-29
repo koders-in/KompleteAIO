@@ -53,12 +53,13 @@ Komplete AIO(All-in-one) is a link opener and invite joiner app with fluent UI/U
 - Ping any Kore member there and get tester-kio role
 - Download our electron app for windows[link] & man[link]
 
-
 ## ℹ️ I have a question. 
 Have a bug or a feature request? Please first read the code of conduct and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/koders-in/KompleteAIO/issues).
 
-### Made with ❤️ by [Koders](http://koders.in/)
+## More on Komplete AIO. 
+This is the first stable version on **KIO**, throughly tested and binded together just for you. This project is up for maintainance and improvements. However, we've major improvements coming up in future. Want to know more about [koders](https://www.koders.in)? Feel free to ping us. 
 
+### Made with ❤️ by [Koders](http://koders.in/)
 <p align="center">
   <a href="https://koders.in/">
     <img src="./assets/koders.png" alt="Logo" width="200" height="200">
