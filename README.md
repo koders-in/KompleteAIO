@@ -20,22 +20,24 @@ Komplete AIO(All-in-one) is a link opener and invite joiner app with fluent UI/U
 * Url appender
 * Add specific channel ids
 * Ignore Discord/Twitter Links 
-* Plays sounds! :you might want to turn your speaker up:
-##### A cool demo
+* Plays sounds! :you might want to turn your speaker up:   
+
+##### _A cool demo_
 <img alt="Logo" height="400" src="./assets/linkopener.gif"/>
 
 ### Invite Joiner
 * Add delays and let's not get banned
 * Add specific channel ids
 * Add Claimer profiles as how you want to 
-##### Another cool demo
+
+##### _Another cool demo_
  <img alt="Logo"   height="400" src="./assets/invite.gif"/>
 
 ### Monitor profiles? Yes! Claimer profiles? Yes again! Chrome profiles?? A big yes!
-##### Watch yourself
+##### _Watch yourself_
 <img alt="Logo" align="center" height="400" src="./assets/data.gif"/>    
 
-##### Watch yourself part 2
+##### _Watch yourself part 2_
 <img alt="Logo" height="400"  src="./assets/setting.gif"/>
 
 ## Want more? 
