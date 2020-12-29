@@ -28,7 +28,7 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 
 ##### _A cool demo_
 
-<img alt="Logo" height="400" src="./assets/linkopener.gif"/>
+<img alt="Logo" height="10%" width="80%" src="./assets/linkopener.gif"/>
 
 ### Invite Joiner
 
@@ -38,19 +38,19 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 
 ##### _Another cool demo_
 
- <img alt="Logo"   height="400" src="./assets/invite.gif"/>
+ <img alt="Logo"    height="10%" width="80%" src="./assets/invite.gif"/>
 
 ### Monitor profiles? Yes! Claimer profiles? Yes again! Chrome profiles?? A big yes!
 
 ##### _Watch yourself_
 
-<img alt="Logo" align="center" height="400" src="./assets/data.gif"/>
+<img alt="Logo" align="center" height="10%" width="80%" src="./assets/data.gif"/>
 
 ##### _Watch yourself part 2_
 
-<img alt="Logo" height="400"  src="./assets/setting.gif"/>
+<img alt="Logo"  height="10%" width="80%"   src="./assets/setting.gif"/>
 
-- Buy a customized source code as how you want
+-   Buy a customized source code as how you want
 <details><summary>Want More?</summary>
 <p>
 
