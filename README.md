@@ -1,5 +1,5 @@
 <div align="center" >
-    <img alt="Logo" height=60 src="./assets/KIO_24.png"/>
+    <img alt="Logo" height=100 src="./assets/KIO_24.png"/>
     <h1>Komplete AIO</h1>
     
 [![Follow](https://img.shields.io/github/followers/koders-in?label=Koders&style=social)](https://github.com/koders-in)
