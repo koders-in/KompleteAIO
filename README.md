@@ -1,6 +1,7 @@
 <div align="center" >
     <img alt="Logo" height=100 src="./assets/KIO_24.png"/>
-    <h1>Komplete AIO</h1>
+    <h1>Usizo: A Komplete LoneWolf</h1>
+ </h1>
     
 [![Follow](https://img.shields.io/github/followers/koders-in?label=Koders&style=social)](https://github.com/koders-in)
 [![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Koders&logo=discord&style=flat-square)](https://discord.gg/hGS24JC)
@@ -12,7 +13,7 @@
 <br />
 
 # Introduction
-Komplete AIO(All-in-one) is a link opener and invite joiner app with fluent UI/UX taken users in mind. 
+Usizo helps you to open links and join invites on its own! Usizo is the perfect assistant. It takes you through the discord interface and gives the best experience(UI/UX).
 
 ## **Features**
 ### Link opener
