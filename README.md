@@ -24,7 +24,7 @@
 
 <div >
     <h2>Link Opener</h2>
-    <img alt="Logo" height="500" src="./assets/linkOpner.gif"/>
+    <img alt="Logo" height="500" src="./assets/linkopener.gif"/>
 </div>
 <div >
     <h2>Invite Joiner</h2>
@@ -52,6 +52,7 @@
 
 -   [Monitor Token](#monitor-token)
 -   [Delay](#delay)
+-   [Options](#options)
 -   [URL Appender](#url-appender)
 -   [Keywords](#keywords)
 -   [Channel Id's](#channelids)
@@ -68,12 +69,19 @@
 #### Delay
 
 -   `Delay is used to prevent the bot from ban from discord server.`
+    <a id="options"></a>
 
-<a id="url-appender"></a>
+#### Options
+
+-   `There are 3 options Ignore Twitter links, Ignore Discord Invite and Play Sound.`
+-   `When Ignore Twitter links is on, urls containing twitter link will not be open.`
+-   `When Ignore Discord Invite is on, urls containing Discord Invite will not be open.`
+-   `When Play sound is on, sound will be play when links are open in the chrome.`
+    <a id="url-appender"></a>
 
 #### URL Appender
 
--   `Url appender is used to append the urls coming from discord server`
+-   `Url appender is used to append the urls coming from discord server.`
 
 <a id="keywords"></a>
 
@@ -97,7 +105,7 @@
 
 ## 🏠 Invite Joiner
 
--   `In this there is a claimer Token when an invite url is come in the entered channel id's this token join that server`
+-   `In this there is a claimer Token when an invite url is come in the entered channel id's this token join that server.`
 
 <a id="data" ></a>
 
