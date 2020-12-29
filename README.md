@@ -12,122 +12,43 @@
 <br />
 
 # Introduction
+Komplete AIO(All-in-one) is a link opener and invite joiner app with fluent UI/UX taken users in mind. 
 
-This is a Link Opener and Invite Joiner app in which the user enter bot token and claimer token and open links in the respective selected Channel Id's and if in these entered channel id's an invite is come than a selected claimer token will join the server. User can login using there discord account.
+## Features
+### Link opener
+* Add and remove keywords
+* Url appender
+* Add specific channel ids
+* Ignore Discord/Twitter Links 
+* Plays sounds! :you might want to turn your speaker up:
+#### A cool demo
+<img alt="Logo" height="400" src="./assets/linkopener.gif"/>
 
-<img src="./assets/output.JPG"></img>
+### Invite Joiner
+* Add delays and let's not get banned
+* Add specific channel ids
+* Add Claimer profiles as how you want to 
+#### Another cool demo
+ <img alt="Logo"   height="400" src="./assets/invite.gif"/>
 
-## 🚀 Getting Started with Komplete AIO
+### Monitor profiles? Yes! Claimer profiles? Yes again! Chrome profiles? A big yes!
+#### Watch yourself
+<img alt="Logo"height="400"  src="./assets/setting.gif"/>
+<img alt="Logo" height="400" src="./assets/data.gif"/>
 
-[📥 Installation](#installation)\
-[🔗 Link Opener Guide](#link-opener-guide)<br/>
+## Want more? 
+- Buy a customized source code as how you want
+- Webhooks
+- Logs exporter
+- Logs importer
+- Settings exporter
+- Settings importer
 
-<a id="installation"><h2>`📥 Installation`</h2></a>
+## 🚀 How can I test it first? 
+- 
 
--   Install kompleteaio from exe file
 
-<a id="link-opener-guide"><h2>`🔗 Link Opener Guide`</h2></a>
-
-<div >
-    <h2>Link Opener</h2>
-    <img alt="Logo" height="400" src="./assets/linkopener.gif"/>
-</div>
-<div >
-    <h2>Invite Joiner</h2>
-    <img alt="Logo"   height="400" src="./assets/invite.gif"/>
-</div>
-<div >
-    <h2>Data</h2>
-    <img alt="Logo" height="400" src="./assets/data.gif"/>
-</div>
-<div >
-    <h2>Setting</h2>
-    <img alt="Logo"height="400"  src="./assets/setting.gif"/>
-</div>
-
-### 📃 Content
-
--   [🔗 Link Opener](#link-opener)
--   [🏠 Invite Joiner](#invite-joiner)
--   [💾 Data](#data)
--   [⚙️ Settings](#settings)
-
-<a id="link-opener" ></a>
-
-## 🔗 Link Opener
-
--   [Monitor Token](#monitor-token)
--   [Delay](#delay)
--   [Options](#options)
--   [URL Appender](#url-appender)
--   [Keywords](#keywords)
--   [Channel Id's](#channelids)
--   [Logs](#logs)
-
-<a id="monitor-token"></a>
-
-#### Monitor Token
-
--   `These are Monitor Token which is come from Data Page.`
-
-<a id="delay"></a>
-
-#### Delay
-
--   `Delay is used to prevent the bot from ban from discord server.`
-    <a id="options"></a>
-
-#### Options
-
--   `There are 3 options Ignore Twitter links, Ignore Discord Invite and Play Sound.`
--   `When Ignore Twitter links is on, urls containing twitter link will not be open.`
--   `When Ignore Discord Invite is on, urls containing Discord Invite will not be open.`
--   `When Play sound is on, sound will be play when links are open in the chrome.`
-
-<a id="url-appender"></a>
-
-#### URL Appender
-
--   `Url appender is used to append the urls coming from discord server.`
-
-<a id="keywords"></a>
-
-#### keywords
-
--   `The URL containing these keywords are omited.`
-
-<a id="channelids"></a>
-
-#### Channel Id's
-
--   `Only entered channel id's of the server are monitored.`
-
-<a id="logs"></a>
-
-#### Logs
-
--   `Used to see what happening like bot is connected or disconnected etc.`
-
-<a id="invite-joiner" ></a>
-
-## 🏠 Invite Joiner
-
--   `In this there is a claimer Token when an invite url is come in the entered channel id's this token join that server.`
-
-<a id="data" ></a>
-
-## 💾 Data
-
--   `Here You can enter Data like claimer Token, Monitor token etc.`
-
-<a id="settings" ></a>
-
-## ⚙️ Settings
-
--   `Here you can set chrome user in which links are open.`
--   `You can add webhook of discord where all the status of Komplete AIO application.`
-
-## ℹ️ Issues
+## ℹ️ I have a question. 
 
 Have a bug or a feature request? Please first read the code of conduct and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/koders-in/KompleteAIO/issues).
 
