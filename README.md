@@ -34,9 +34,7 @@ Komplete AIO(All-in-one) is a link opener and invite joiner app with fluent UI/U
 ### Monitor profiles? Yes! Claimer profiles? Yes again! Chrome profiles?? A big yes!
 ##### Watch yourself
 
-<img alt="Logo"height="400"  src="./assets/setting.gif"/>
-
-<img alt="Logo" height="400" src="./assets/data.gif"/>
+<img alt="Logo" align="center" height="400" src="./assets/data.gif"/>
 
 ## Want more? 
 - Buy a customized source code as how you want
