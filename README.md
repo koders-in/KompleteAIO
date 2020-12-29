@@ -52,9 +52,9 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 - Discord rich presence
 
 ## I want to buy a customized unit but how can I test it first? 
-- We have manual setup of discord auth testing so all you need to do is to join this server
-- Ping any Kore member there and get tester-kio role
-- Download our electron app for windows[link] & man[link]
+- We have manual setup of discord auth testing so all you need to do is to join our discord [server](https://discord.com/invite/hGS24JC)
+- Ping any Kore member there and get `tester-usizo` role so you can pass through discord auth.
+- Download our electron app for [Windows](https://mega.nz/file/lpoVlYyQ#ROemY2CkJjEB4EDvRvXlfZuhR2awdjfPBfSX6-4i-Dk) & [Mac](https://drive.google.com/file/d/1asdfZcElpEqGlCCSzUHUFISCGJc8o0Av/view?usp=sharing)
 
 ## ℹ️ I have a question. 
 Have a bug or a feature request? Please first read the code of conduct and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/koders-in/KompleteAIO/issues).
