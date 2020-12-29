@@ -50,8 +50,6 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 
 <img alt="Logo" height="400"  src="./assets/setting.gif"/>
 
- <img alt="Logo" height="400"  src="./assets/setting.gif"/>
-
 <details><summary><h2 style="display:inline-block"> Want More... </h2></summary>
 <p>
 
