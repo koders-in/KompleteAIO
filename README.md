@@ -24,20 +24,21 @@
 
 <div >
     <h2>Link Opener</h2>
-    <img alt="Logo" height="600" src="./assets/linkOpner.gif"/>
+    <img alt="Logo" height="500" src="./assets/linkOpner.gif"/>
 </div>
 <div >
     <h2>Invite Joiner</h2>
-    <img alt="Logo" height="600" src="./assets/invite.gif"/>
+    <img alt="Logo" height="500" src="./assets/invite.gif"/>
 </div>
 <div >
     <h2>Data</h2>
-    <img alt="Logo" height="600" src="./assets/data.gif"/>
+    <img alt="Logo" height="500" src="./assets/data.gif"/>
 </div>
 <div >
     <h2>Setting</h2>
-    <img alt="Logo"height="600"  src="./assets/setting.gif"/>
+    <img alt="Logo"height="500"  src="./assets/setting.gif"/>
 </div>
+
 ### 📃 Content
 
 -   [🔗 Link Opener](#link-opener)
@@ -96,19 +97,20 @@
 
 ## 🏠 Invite Joiner
 
--   `TODO`
+-   `In this there is a claimer Token when an invite url is come in the entered channel id's this token join that server`
 
 <a id="data" ></a>
 
 ## 💾 Data
 
--   `Use to create a Monitor Token.`
+-   `Here You can entered Data like claimer Token, Monitor token etc`
 
 <a id="settings" ></a>
 
 ## ⚙️ Settings
 
--   `TODO`
+-   `Here you can set chrome user in which links are open`
+-   `You can add webhook of discord where all the status of Komplete AIO application`
 
 ## 📦 What's inside?
 
@@ -123,6 +125,7 @@
 Have a bug or a feature request? Please first read the code of conduct and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/koders-in/Link-opener-frontEnd/issues).
 
 ### Made with ❤️ by [Koders](http://koders.in/)
+
 <p align="center">
   <a href="https://koders.in/">
     <img src="./assets/koders.png" alt="Logo" width="200" height="200">
@@ -147,4 +150,3 @@ Have a bug or a feature request? Please first read the code of conduct and searc
   ·
   <a href="https://discord.gg/hGS24JC">Discord</a>
 </p>
-
