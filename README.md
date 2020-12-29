@@ -1,5 +1,5 @@
 <div align="center" >
-    <img alt="Logo" src="./assets/logo.png"/>
+    <img alt="Logo" height=60 src="./assets/KIO_24.png"/>
     <h1>Komplete AIO</h1>
   
 [![Follow](https://img.shields.io/github/followers/koders-in?label=Koders&style=social)](https://github.com/koders-in)
@@ -11,12 +11,18 @@
 </div>
 <br />
 
-## 🚀 Getting Started with Link Opener
+# Introduction
+
+This is a Link Opener and Invite Joiner app in which the user enter bot token and claimer token and open links in the respective selected Channel Id's and if in these entered channel id's an invite is come than a selected claimer token will join the server. User can login using there discord account.
+
+<img src="./assets/output.JPG"></img>
+
+## 🚀 Getting Started with Komplete AIO
 
 [📥 Installation](#installation)\
 [🔗 Link Opener Guide](#link-opener-guide)<br/>
 
-<a id="installation"><h3>`📥 Installation`</h3></a>
+<a id="installation"><h2>`📥 Installation`</h2></a>
 
 -   Install kompleteaio from exe file
 
@@ -24,19 +30,19 @@
 
 <div >
     <h2>Link Opener</h2>
-    <img alt="Logo" height="500" src="./assets/linkopener.gif"/>
+    <img alt="Logo" height="400" src="./assets/linkopener.gif"/>
 </div>
 <div >
     <h2>Invite Joiner</h2>
-    <img alt="Logo" height="500" src="./assets/invite.gif"/>
+    <img alt="Logo"   height="400" src="./assets/invite.gif"/>
 </div>
 <div >
     <h2>Data</h2>
-    <img alt="Logo" height="500" src="./assets/data.gif"/>
+    <img alt="Logo" height="400" src="./assets/data.gif"/>
 </div>
 <div >
     <h2>Setting</h2>
-    <img alt="Logo"height="500"  src="./assets/setting.gif"/>
+    <img alt="Logo"height="400"  src="./assets/setting.gif"/>
 </div>
 
 ### 📃 Content
@@ -77,7 +83,8 @@
 -   `When Ignore Twitter links is on, urls containing twitter link will not be open.`
 -   `When Ignore Discord Invite is on, urls containing Discord Invite will not be open.`
 -   `When Play sound is on, sound will be play when links are open in the chrome.`
-    <a id="url-appender"></a>
+
+<a id="url-appender"></a>
 
 #### URL Appender
 
@@ -133,8 +140,8 @@ Have a bug or a feature request? Please first read the code of conduct and searc
 </p>
 <p align="center">
   <i> "Your vision, Our Kreation" </i>
-  <br> 
-  <br> 
+  <br>
+  <br>
   An institution that caters to all your software needs with their touch of Koding.
   <br>
   <a href="https://www.koders.in"><strong>Explore More»</strong></a>
@@ -150,3 +157,4 @@ Have a bug or a feature request? Please first read the code of conduct and searc
   ·
   <a href="https://discord.gg/hGS24JC">Discord</a>
 </p>
+````
