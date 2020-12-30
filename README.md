@@ -79,7 +79,7 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 
 -   We have manual setup of discord auth testing so all you need to do is to join our discord [server](https://discord.com/invite/hGS24JC)
 -   Ping any Kore member there and get `tester-usizo` role so you can pass through discord auth.
--   Download our electron app for [Windows](https://mega.nz/file/k9QBnIqC#5m8GKgVkhCIXPDf6i03Zo-M2o8OQEQGFeXpmui0ny_Q) & [Mac](https://drive.google.com/file/d/1asdfZcElpEqGlCCSzUHUFISCGJc8o0Av/view?usp=sharing)
+-   Download our electron app for [Windows](https://mega.nz/file/k9QBnIqC#5m8GKgVkhCIXPDf6i03Zo-M2o8OQEQGFeXpmui0ny_Q) & [Mac](https://drive.google.com/drive/folders/10SNruCpDUD6BuclW8STwNo9LO61Z6QbE?usp=sharing)
 
 ## ℹ️ I have a question.
 
