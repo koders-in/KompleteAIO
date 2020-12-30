@@ -42,52 +42,55 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 
  <img alt="Logo"    height="10%" width="80%" src="./assets/invite.gif"/>
 
-### Monitor profiles? Yes! Claimer profiles? Yes again! Chrome profiles?? A big yes!
+### Position Of Responsibility :
 
-##### _Watch yourself_
+- Monitors Profiles.
+- Claimer Profiles.
+- Chrome Profiles.
+
+##### _Task Sample:_
 
 <img alt="Logo" align="center" height="10%" width="80%" src="./assets/data.gif"/>
 
-##### _Watch yourself part 2_
+##### _Task Sample: Part 2_
 
 <img alt="Logo"  height="10%" width="80%"   src="./assets/setting.gif"/>
 
 -   Buy a customized source code as how you want
-<details><summary>Want More?</summary>
+<details><summary>Areas of Interest:</summary>
 <p>
+- Easy buying of customized source codes.
+- Looks over custom Webhooks.
+- Exports and Imports logs.
+- Exports and Imports settings. 
+- Discord Auth.
+- Discord rich presence.
+- Adds and removes chrome users.
+- Detects activity status.
+- Shows the current profile.
+- Confirms the logouts.
+- Role-based Auth.
+- Loads and Saves configs
+- Starts and Stops the Bot.
+- Tests webhooks instantly and manually.
 
--   Custom Webhooks
--   Logs exporter
--   Logs importer
--   Settings exporter
--   Settings importer
--   Discord Auth
--   Discord rich presence
--   Add/remove chrome user
--   Online/offline detect
--   Profile Show
--   Logout Confirmation
--   Role base Auth
--   Load/Save configs
--   Stop/Start Bot
--   Test webhook instantly and manually
 
 </p>
 </details>
 
 ## I want to buy a customized unit but how can I test it first?
 
--   We have manual setup of discord auth testing so all you need to do is to join our discord [server](https://discord.com/invite/hGS24JC)
--   Ping any Kore member there and get `tester-usizo` role so you can pass through discord auth.
+-   Join our discord [server](https://discord.com/invite/hGS24JC) to test the discord auth that we have set manually. 
+-   Ping any KoreMember on the server and get tester-kio role. 
 -   Download our electron app from [here](https://drive.google.com/drive/folders/10SNruCpDUD6BuclW8STwNo9LO61Z6QbE?usp=sharing)
 
 ## ℹ️ I have a question.
 
 Have a bug or a feature request? Please first read the code of conduct and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/koders-in/KompleteAIO/issues).
 
-## More on Komplete AIO.
+## More on Komplete Usizo:
+Usizo is the first stable version present on KIO. It has been thoroughly tested and compiled just for you. Usizo is open to maintenance and improvement. Koders have more improvements coming up in the near future! Want to know more? Click away! 
 
-This is the first stable version on **KIO**, throughly tested and binded together just for you. This project is up for maintainance and improvements. However, we've major improvements coming up in future. Want to know more about [koders](https://www.koders.in)? Feel free to ping us.
 
 ### Made with ❤️ by [Koders](http://koders.in/)
 
