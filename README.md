@@ -1,6 +1,6 @@
 <div align="center" >
     <img alt="Logo" height=100 src="./assets/KIO_24.png"/>
-    <h1>Usizo: A Komplete LoneWolf</h1>
+    <h1>Usizo: A Komplete LoneWolf!</h1>
  </h1>
     
 [![Follow](https://img.shields.io/github/followers/koders-in?label=Koders&style=social)](https://github.com/koders-in)
@@ -30,9 +30,8 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 
 <img alt="Logo" height="10%" width="80%" src="./assets/linkopener.gif"/>
 
-### Invite Joiner
+### An Invite Joiner: Joins the void!
 
--   Joins the void!
 -   Affixes delays and prevents bans. 
 -   Figures specific channel ids. 
 -   Adds customized claimer profiles.
