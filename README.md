@@ -59,29 +59,27 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 -   Buy a customized source code as how you want
 <details><summary>Areas of Interest:</summary>
 <p>
-- Easy buying of customized source codes.
-- Looks over custom Webhooks.
-- Exports and Imports logs.
-- Exports and Imports settings. 
-- Discord Auth.
-- Discord rich presence.
-- Adds and removes chrome users.
-- Detects activity status.
-- Shows the current profile.
-- Confirms the logouts.
-- Role-based Auth.
-- Loads and Saves configs
-- Starts and Stops the Bot.
-- Tests webhooks instantly and manually.
-
-
+    <li>Easy buying of customized source codes.</li>
+<li>Looks over custom Webhooks.</li>
+<li>Exports and Imports logs.</li>
+<li>Exports and Imports settings.</li>
+<li>Discord Auth.</li>
+<li>Discord rich presence.</li>
+<li>Adds and removes chrome users.</li>
+<li>Detects activity status.</li>
+<li>Shows the current profile.</li>
+<li>Confirms the logouts.</li>
+<li>Role-based Auth.</li>
+<li>Loads and Saves configs.</li>
+<li>Starts and Stops the Bot.</li>
+<li>Tests webhooks instantly and manually.</li>
 </p>
 </details>
 
 ## I want to buy a customized unit but how can I test it first?
 
 -   Join our discord [server](https://discord.com/invite/hGS24JC) to test the discord auth that we have set manually. 
--   Ping any KoreMember on the server and get tester-kio role. 
+-   Ping any Kore member on the server and get tester-kio role. 
 -   Download our electron app from [here](https://drive.google.com/drive/folders/10SNruCpDUD6BuclW8STwNo9LO61Z6QbE?usp=sharing)
 
 ## ℹ️ I have a question.
@@ -89,7 +87,7 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 Have a bug or a feature request? Please first read the code of conduct and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/koders-in/KompleteAIO/issues).
 
 ## More on Komplete Usizo:
-Usizo is the first stable version present on KIO. It has been thoroughly tested and compiled just for you. Usizo is open to maintenance and improvement. Koders have more improvements coming up in the near future! Want to know more? Click away! 
+Usizo is the first stable version present on KIO. It has been thoroughly tested and compiled just for you. Usizo is open to maintenance and improvement. Koders have more improvements coming up in the near future! Want to know more? [Click away!](https://koders.in/)
 
 
 ### Made with ❤️ by [Koders](http://koders.in/)
