@@ -20,11 +20,12 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 
 ### Link opener
 
--   Add and remove keywords (Both positive and negative)
--   Url appender
--   Add specific channel ids
--   Ignore Discord/Twitter Links
--   Plays sounds! :you might want to turn your speaker up:
+-   It Links Outside Box!
+-   Monitors negative and positive keywords
+-   It supplements the URLs
+-   It attaches specific channel ids. 
+-   Neglects the Discord/Twitter Links
+-   It's your Justin Speaker: turn your speakers on!
 
 ##### _A cool demo_
 
@@ -32,9 +33,10 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 
 ### Invite Joiner
 
--   Add delays and let's not get banned
--   Add specific channel ids
--   Add Claimer profiles as how you want to
+-   Joins the void!
+-   Affixes delays and prevents bans. 
+-   Figures specific channel ids. 
+-   Adds customized claimer profiles.
 
 ##### _Another cool demo_
 
