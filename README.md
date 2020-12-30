@@ -1,6 +1,6 @@
 <div align="center" >
     <img alt="Logo" height=100 src="./assets/KIO_24.png"/>
-    <h1>Usizo: A Komplete LoneWolf</h1>
+    <h1>Usizo: A Komplete LoneWolf!</h1>
  </h1>
     
 [![Follow](https://img.shields.io/github/followers/koders-in?label=Koders&style=social)](https://github.com/koders-in)
@@ -20,19 +20,18 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 
 ###  It Links Outside Box!
 
--   Monitors negative and positive keywords
--   It supplements the URLs
+-   Monitors negative and positive keywords.
+-   It supplements the URLs.
 -   It attaches specific channel ids. 
 -   Neglects the Discord/Twitter Links
 -   It's your Justin Speaker: turn your speakers on!
 
-##### _A cool demo_
+##### _A Really Cool Demo!_
 
 <img alt="Logo" height="10%" width="80%" src="./assets/linkopener.gif"/>
 
-### Invite Joiner
+### An Invite Joiner: Joins the void!
 
--   Joins the void!
 -   Affixes delays and prevents bans. 
 -   Figures specific channel ids. 
 -   Adds customized claimer profiles.
@@ -51,11 +50,10 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 
 <img alt="Logo" align="center" height="10%" width="80%" src="./assets/data.gif"/>
 
-##### _Task Sample: Part 2_
+##### _Task Sample: The More The Merrier_
 
 <img alt="Logo"  height="10%" width="80%"   src="./assets/setting.gif"/>
 
--   Buy a customized source code as how you want
 <details><summary>Areas of Interest:</summary>
 <p>
     <li>Easy buying of customized source codes.</li>
@@ -75,17 +73,18 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 </p>
 </details>
 
-## I want to buy a customized unit but how can I test it first?
+## Want to buy a customized unit after testing it first?
 
--   Join our discord [server](https://discord.com/invite/hGS24JC) to test the discord auth that we have set manually. 
+-   Join our discord server [server](https://discord.com/invite/hGS24JC) to test the discord auth that we have set manually. 
 -   Ping any Kore member on the server and get tester-kio role. 
 -   Download our electron app from [here](https://drive.google.com/drive/folders/10SNruCpDUD6BuclW8STwNo9LO61Z6QbE?usp=sharing)
 
-## ℹ️ I have a question.
+## FAQ!
 
-Have a bug or a feature request? Please first read the code of conduct and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/koders-in/KompleteAIO/issues).
+Have a bug or a feature request? Please first read the code of conduct and search for existing and closed issues. If your problem or idea is not addressed yet, please open a new issue.[please open a new issue](https://github.com/koders-in/KompleteAIO/issues).
 
 ## More on Komplete Usizo:
+
 Usizo is the first stable version present on KIO. It has been thoroughly tested and compiled just for you. Usizo is open to maintenance and improvement. Koders have more improvements coming up in the near future! Want to know more? [Click away!](https://koders.in/)
 
 
