@@ -18,9 +18,8 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 
 ## **Features**
 
-### Link opener
+###  It Links Outside Box!
 
--   It Links Outside Box!
 -   Monitors negative and positive keywords
 -   It supplements the URLs
 -   It attaches specific channel ids. 
